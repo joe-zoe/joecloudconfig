@@ -1,0 +1,3 @@
+spring:
+  ipregister:
+    perminute: 6
